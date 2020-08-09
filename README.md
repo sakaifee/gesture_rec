@@ -1,4 +1,4 @@
-# gesture_rec
+# Text Generation Using Hand Gestures
 
 ```
 pip install requirement.txt
